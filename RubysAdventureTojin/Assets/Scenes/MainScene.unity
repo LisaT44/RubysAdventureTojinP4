@@ -86190,6 +86190,10 @@ PrefabInstance:
       value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 4875271734291574811, guid: fad960d7a02d70f4996d35acc30c8846, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 2.4475558
+      objectReference: {fileID: 0}
+    - target: {fileID: 4875271734291574811, guid: fad960d7a02d70f4996d35acc30c8846, type: 3}
       propertyPath: m_SpriteTilingProperty.adaptiveTiling
       value: 1
       objectReference: {fileID: 0}
